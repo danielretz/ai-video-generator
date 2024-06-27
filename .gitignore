@@ -11,3 +11,6 @@ frontend/yarn.lock
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 !.vscode/*.codesnippet
+
+.DS_Store
+**/.DS_Store
