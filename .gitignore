@@ -11,7 +11,3 @@ frontend/yarn.lock
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 !.vscode/*.codesnippet
-
-# Tailwind CSS
-tailwind.config.js
-postcss.config.js
