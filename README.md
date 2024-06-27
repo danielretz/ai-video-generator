@@ -12,7 +12,7 @@ This web application allows users to upload an image and receive a generated vid
 ## Technologies Used
 
 - **Frontend**: React, TypeScript, TailwindCSS-ish
-- **Backend**: FastAPI, Celery, Redis
+- **Backend**: FastAPI, Celery, Redis, Python
 - **Containerization**: Docker, Docker Compose
 
 ## Installation
